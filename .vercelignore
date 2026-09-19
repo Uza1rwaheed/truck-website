@@ -1,0 +1,8 @@
+server-local.js
+ 
+test_post.js
+verify_deploy.js
+.env
+.git
+node_modules
+.vercel
